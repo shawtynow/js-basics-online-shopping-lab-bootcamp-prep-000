@@ -38,4 +38,3 @@ function viewCart() {
   console.log(new_cart)
 
 }
-}
